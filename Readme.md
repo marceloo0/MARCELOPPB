@@ -1,5 +1,5 @@
 
-### Hi here is Marcelo, welcome to my GitHub profile. 👋
+### Oi sou o Marcelo, seja-vindo ao meu perfil do GitHub. 👋
 
 - :rocket: Entusiasta em tecnologias web com JavaScript e TypeScript. Venho sempre me atulizando nessas areas.
 - :books: Recentemente conclui um curso na [Rocketseat](https://rocketseat.com.br), onde pude aprimorar ainda mais meus conhecimentos.
