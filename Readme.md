@@ -1,7 +1,7 @@
 
 ### Oi sou o Marcelo, seja-vindo ao meu perfil do GitHub. 👋
 
-- :rocket: Entusiasta em tecnologias web com JavaScript e TypeScript. Venho sempre me atulizando nessas areas.
+- :rocket: Entusiasta em tecnologias web com JavaScript e TypeScript. Venho sempre me atualizando nessas areas.
 - :books: Recentemente conclui um curso na [Rocketseat](https://rocketseat.com.br), onde pude aprimorar ainda mais meus conhecimentos.
 - :mortar_board: Sou graduado em Analise e Desenvolvimento de sistemas na [UniProjeção](https://projecao.br/faculdade).
 
