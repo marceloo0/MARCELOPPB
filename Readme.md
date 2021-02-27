@@ -1,8 +1,8 @@
 
 ### Oi sou o Marcelo, seja-vindo ao meu perfil do GitHub. 👋
 
-- :rocket: Entusiasta em tecnologias web com JavaScript e TypeScript. Venho sempre me atualizando nessas areas.
-- :books: Recentemente conclui um curso na [Rocketseat](https://rocketseat.com.br), onde pude aprimorar ainda mais meus conhecimentos.
+- :rocket: Entusiasta em tecnologias web com JavaScript e TypeScript. Sempre atualizando aprendizado.
+- :books: Recentemente conclui o bootcamp da [Rocketseat](https://rocketseat.com.br), onde pude aprimorar ainda mais meus conhecimentos.
 - :mortar_board: Sou graduado em Analise e Desenvolvimento de sistemas na [UniProjeção](https://projecao.br/faculdade).
 
 <br />
@@ -17,7 +17,7 @@
 <br />
 
 
-## Languages and Tools:
+## Linguagens e ferramentas:
 
 
 <div>
@@ -55,7 +55,7 @@
 <div align="center" >
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=marceloppb&show_icons=true&theme=algolia&count_private=true" alt="Marcelo Barbosa's github stats" />
     <ul align="left">
-    <li align="left">Thanks for visiting :smiley:</li>
+    <li align="left">Obrigado pela visita... volte sempre!!!:</li>
   </ul>
 </div>
  
